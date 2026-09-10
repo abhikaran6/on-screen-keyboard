@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.onscreenkeyboard",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
